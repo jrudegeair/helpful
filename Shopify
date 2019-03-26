@@ -1,0 +1,19 @@
+Start every collection and product page with this:
+<div class="ascension"> Page Content </div>
+
+To add a trailer to a collection page:
+<div class="trailer"><iframe width="560" height="315" src="YOUTUBE EMBED CODE HERE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>&gt;</div>
+
+To add tabs to a collection page:
+<div data-station-tabs-app=""> PAGE CONTENT <h6>TAB 1 TITLE</h6> TAB 1 CONTENT <h6>TAB 2 TITLE<h6> TAB 2 CONTENT </div>
+
+To create a white button:
+<a class="button-white" href="LINK HERE">BUTTON TEXT HERE</a>
+
+To create a gold button:
+<a class="button-gold" href="LINK HERE">BUTTON TEXT HERE</a>
+
+To create an anchor link:
+<a href="#ANCHOR">Link to Anchor!</a>
+Anchor text:
+<h2 id="ANCHOR">Title for Anchor!</h2>
